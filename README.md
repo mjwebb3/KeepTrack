@@ -4,7 +4,7 @@ A lightweight iOS daily intake tracker designed for speed, consistency, and clar
 
 ## Highlights
 
-- Fast daily logging with goal tracking
+- Fast daily logging with goal tracking 
 - Siri integration for hands-free capture
 - Modern SwiftUI architecture (@Observable where applicable)
 - Designed for low-friction behavior tracking
